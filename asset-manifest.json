@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PerezGermanReact/static/css/main.7eebc124.css",
-    "main.js": "/PerezGermanReact/static/js/main.589ad6aa.js",
-    "static/js/787.28cb0dcd.chunk.js": "/PerezGermanReact/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/PerezGermanReact/index.html",
-    "main.7eebc124.css.map": "/PerezGermanReact/static/css/main.7eebc124.css.map",
-    "main.589ad6aa.js.map": "/PerezGermanReact/static/js/main.589ad6aa.js.map",
-    "787.28cb0dcd.chunk.js.map": "/PerezGermanReact/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/preentrega1/static/css/main.7eebc124.css",
+    "main.js": "/preentrega1/static/js/main.1c5b9fe7.js",
+    "static/js/787.28cb0dcd.chunk.js": "/preentrega1/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/preentrega1/index.html",
+    "main.7eebc124.css.map": "/preentrega1/static/css/main.7eebc124.css.map",
+    "main.1c5b9fe7.js.map": "/preentrega1/static/js/main.1c5b9fe7.js.map",
+    "787.28cb0dcd.chunk.js.map": "/preentrega1/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7eebc124.css",
-    "static/js/main.589ad6aa.js"
+    "static/js/main.1c5b9fe7.js"
   ]
 }
